@@ -1,16 +1,25 @@
-# Clínica Seven - Scripts SQL
+# Clínica Seven - Projeto SQL
 
-Projeto acadêmico para criação e manipulação de banco de dados relacional para gestão de consultas médicas, utilizando MySQL.
+Projeto acadêmico de criação e manipulação de banco de dados relacional para gestão de consultas médicas, utilizando MySQL.
 
-## Objetivos do Sistema
+---
+
+## 🏥 Objetivo do Sistema
 - Cadastrar pacientes, médicos e especialidades
 - Agendar e gerenciar consultas
 - Registrar atendimentos e cancelamentos
 - Controlar horários disponíveis para cada médico
+- Facilitar a consulta de relatórios sobre atendimentos realizados
 
-## Tecnologias utilizadas
-- MySQL Workbench
-- GitHub
+> Observação: O sistema **não** controla faturamento, integração com planos de saúde ou envio automático de lembretes.
+
+---
+
+## 💻 Tecnologias Utilizadas
+- MySQL 8.0 / MySQL Workbench
+- GitHub (versionamento)
 - SQL (DDL e DML)
 
-## Estrutura de arquivos
+---
+
+## 📁 Estrutura dos arquivos
